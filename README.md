@@ -3,7 +3,9 @@
 This is a create-your-own-adventure story where at each step, the reader chooses
 what action to take and turns to an appropriate page of the story based on their
 choice.  It is collaborative because it is written one small piece at a time by
-many authors.  To start reading the story, click [here](language.md).
+many authors.  To start reading the story, click [here](language.md).  
+  
+I forked and contributed to this repository as an exercise for the Udacity Git course.  
 
 ## Format of the Story
 
